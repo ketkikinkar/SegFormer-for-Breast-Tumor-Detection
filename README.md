@@ -1,5 +1,4 @@
-# SegFormer-for-Breast-Tumor-Detection
-# SegFormer for Tumor Detection
+# SegFormer-for-Breast-Cancer-Tumor-Detection
 
 ## Introduction
 
