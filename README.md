@@ -1,5 +1,10 @@
 # SegFormer-for-Breast-Cancer-Tumor-Detection
 
+## Members
+Anuj Zore (https://www.linkedin.com/in/anuj-zore-806b3112a/)
+
+Ketki Kinkar (https://www.linkedin.com/in/ketkikinkar/)
+
 ## Introduction
 
 This repository contains the implementation of the SegFormer model adapted for the purpose of tumor detection in medical images. The SegFormer model, which is a transformer-based approach for semantic segmentation, has been fine-tuned to classify each pixel of an image into two categories: tumor and background. This project aims to contribute to medical imaging analysis by providing an efficient tool for early tumor detection, which is crucial for the timely and effective treatment of cancer.
