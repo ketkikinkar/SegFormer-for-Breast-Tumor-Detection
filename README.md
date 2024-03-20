@@ -1,7 +1,6 @@
 # SegFormer-for-Breast-Cancer-Tumor-Detection
 
-## Members
-Anuj Zore (https://www.linkedin.com/in/anuj-zore-806b3112a/)
+## Member
 
 Ketki Kinkar (https://www.linkedin.com/in/ketkikinkar/)
 
